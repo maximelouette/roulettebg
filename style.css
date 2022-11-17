@@ -21,7 +21,7 @@ h1 {
 	color: #FFFFFF;
 }
 .container {
-	max-width: 896px;
+	max-width: 1200px;
 	margin: 0px auto;
 	display: flex;
 	justify-content: center;
@@ -33,7 +33,7 @@ h1 {
 .container-heroes {
 	position: relative;
 	height: 298px;
-	width: 896px;
+	width: 1200px;
 	background: url('all-heroes.jpg') repeat;
 	transition: all 5s cubic-bezier(.47,.77,.41,1.13);
 	/*border: 5px solid #000000;*/
@@ -49,7 +49,7 @@ h1 {
 	display: inline-block;
 	height: 100%;
     /*width: calc(100%/10);*/
-    width:112px;
+    width:150px;
 	left: 45%;
 	top: 50%;
 	transform: translate(-50%, -50%);
