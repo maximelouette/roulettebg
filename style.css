@@ -50,7 +50,7 @@ h1 {
 	height: 100%;
     /*width: calc(100%/10);*/
     width:150px;
-	left: 25%;
+	left: 75%;
 	top: 50%;
 	transform: translate(-50%, -50%);
 	border: 4px solid white;
