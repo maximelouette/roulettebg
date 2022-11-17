@@ -33,7 +33,7 @@ h1 {
 .container-heroes {
 	position: relative;
 	height: 298px;
-	width: 1120px;
+	width: 896px;
 	background: url('all-heroes.jpg') repeat;
 	transition: all 5s cubic-bezier(.47,.77,.41,1.13);
 	/*border: 5px solid #000000;*/
